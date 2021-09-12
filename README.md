@@ -5,7 +5,7 @@ I am a Full-stack web developer specializing in Python, JavaScript, Java, AWS EC
 Take a look at my work or get in touch!
 Portfolio: https://yma-van2020.github.io/portfolio-site/
 
-- 🔭 I’m currently working on MERN and JAVA full-stack projects
+- 🔭 I’m currently working on MERN and Java full-stack projects
 - 🌱 I’m currently learning full-stack web development and software engineering
 - 👯 I’m looking to collaborate anytime in the future
 - 💬 Ask me about my projects and collab opportunities etc. 

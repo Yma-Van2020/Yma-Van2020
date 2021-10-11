@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yma-van2020.github.io/portfolio_site/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yma-Van2020&count_private=true)
+![Katelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yma-Van2020&count_private=true&show_icons=true&theme=bear)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yma-Van2020&langs_count=10)](https://github.com/Yma-Van2020/github-readme-stats)
 

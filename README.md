@@ -10,8 +10,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yma-Van2020&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yma-Van2020)](https://github.com/Yma-Van2020/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yma-Van2020)](https://github.com/Yma-Van2020/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yma-Van2020)](https://github.com/Yma-Van2020&&hide=scss/github-readme-stats)
 

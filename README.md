@@ -7,6 +7,7 @@
 - 📫 How to reach me: katelynvan152@gmail.com
 * Will take actions if any of my codes are copied/modifed without my consent :)
 
+[website]:https://yma-van2020.github.io/portfolio_site/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yma-Van2020&show_icons=true&theme=synthwave)
 

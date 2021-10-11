@@ -7,7 +7,7 @@
 - 📫 How to reach me: katelynvan152@gmail.com
 * Will take actions if any of my codes are copied/modifed without my consent :)
 
-[![Website](https://img.shields.io/website?label=PORTFOLIO Site&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yma-van2020.github.io/portfolio_site/)
+[![Website](https://img.shields.io/website?label=PORTFOLIO.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yma-van2020.github.io/portfolio_site/)
 
 ![Katelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yma-Van2020&count_private=true&show_icons=true&theme=bear)
 

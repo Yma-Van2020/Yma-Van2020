@@ -1,4 +1,4 @@
-Web developer, practiced in functional and object oriented programming in languages such as JavaScript and Java. Quick to learn new skills and adapt to new syntaxes, while driven to tackle difficult problems. Built multiple web applications that serve information in the forms of SPA and multipage apps. 
+Web developer, practiced in functional and object oriented programming in languages such as JavaScript and Python. Quick to learn new skills and adapt to new syntaxes, while driven to tackle difficult problems. Built multiple web applications that serve information in the forms of SPA and multipage apps. 
 
 [![Website](https://img.shields.io/website?label=PORTFOLIO_SITE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yma-van2020.github.io/portfolio_site/)
 

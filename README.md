@@ -1,11 +1,4 @@
-### Hello there 🌟
-
-- 🔭 I’m currently working on Java full-stack projects
-- 🌱 I’m currently learning full-stack web development and software engineering
-- 👯 I’m looking to collaborate anytime in the future
-- 💬 Ask me about my projects and collab opportunities etc. 
-- 📫 How to reach me: katelynvan152@gmail.com
-* Will take actions if any of my codes are copied/modifed without my consent :)
+Web developer, practiced in functional and object oriented programming in languages such as JavaScript and Java. Quick to learn new skills and adapt to new syntaxes, while driven to tackle difficult problems. Built multiple web applications that serve information in the forms of SPA and multipage apps. 
 
 [![Website](https://img.shields.io/website?label=PORTFOLIO_SITE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yma-van2020.github.io/portfolio_site/)
 

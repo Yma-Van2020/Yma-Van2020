@@ -1,5 +1,3 @@
-1. LATER INTERVIEW- full stack developer
-
 3 years of experience as a full-stack web developer working with cross-functional team members and stakeholders . At Modo Carshare, I develop backend services using PHP and PgSQL, and design responsive user interfaces with React/TypeScript, HTML5 and CSS3 and restfulAPI. I also handled legacy codebase, and ensure application security with PCI compliance because we handled sensitive customer information like credit card.
 
 At Modo, I developed a comprehensive booking management platform with features for bookings, fleet and vehicle management, accessories, profiles, and personal information. I also worked on the interactive booking map to enhance the user experience using third party API.

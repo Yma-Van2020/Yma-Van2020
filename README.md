@@ -1,20 +1,12 @@
-3 years of experience as a full-stack web developer, I have some background in eCommerce and cloud computing. At Modo Carshare, I develop backend services using PHP Laravel/Python with Flask and PgSQL, and design responsive user interfaces with React/TypeScript, HTML5 and CSS3 and used GraphQL and restfulAPI for building APIs. I also handled legacy PHP codebase, mobile app development, and ensure application security with PCI compliance because we handled sensitive customer information like credit card.
+3 years of experience as a full-stack web developer working with cross-functional team members and stakeholders . At Modo Carshare, I develop backend services using PHP and PgSQL, and design responsive user interfaces with React/TypeScript, HTML5 and CSS3 and restfulAPI. I also handled legacy codebase, and ensure application security with PCI compliance because we handled sensitive customer information like credit card.
 
-At Modo, I developed a comprehensive booking management platform with features for bookings, fleet and vehicle management, accessories, profiles, and personal information. I implemented billing functionalities like account balances, charges, credits, deposits, payments, and refunds, and handled invoicing, mass emailing, reporting, and promotions. I also created an interactive booking map to enhance the user experience using third party API.
+At Modo, I developed a comprehensive booking management platform with features for bookings, fleet and vehicle management, accessories, profiles, and personal information. I also worked on the interactive booking map to enhance the user experience using third party API.
 
-Example microservices built:
+Previously at Wysdom.ai, I worked on web and chatbot projects with vueJS, reactJS for the FE and  Node.js/Python, express and MongoDB(NoSQl) for BE. I am skilled in working with cloud computing providers like AWS and Azure, container solutions with Docker and Kubenetes, and GitLab's CI/CD pipelines for deployment. 
 
-* Booking Management Microservice oversees the creation, updating, and management of bookings, ensuring integration with the fleet management system for availability and reservations. 
+Proficient in writing feature and unit tests for both frontend and backend I excel at troubleshooting and problem-solving, handling 85% of bug tickets at Modo—twice as many as my co-workers and gave regular code reviews. We used Jira, confluence and Gitlab for project management in an Agile environment. 
 
-* The Billing and Payments Microservice handles financial transactions, including account balances, charges, credits, deposits, payments, and refunds, while ensuring PCI compliance.
-
-* The Invoicing Microservice generates, manages, and delivers invoices for bookings and transactions, integrating closely with billing and payment systems.
-
-Previously at Wysdom.ai, I worked on web and chatbot projects for clients like Lululemon, gaining exposure to eCommerce and integrating third-party APIs, headless CMS solutions, and analytics suites. I am skilled in working with cloud computing providers like AWS and Azure, container solutions with Docker and Kubenetes, and GitLab's CI/CD pipelines. 
-
-Proficient in writing feature and unit tests for both frontend(Jest) and backend(Phpunit), I excel at troubleshooting and problem-solving, handling 85% of bug tickets at Modo—twice as many as my co-workers and gave regular code reviews. My formal education includes Software Engineering degrees from Western Governors University and UBC, with certifications in project/IT service manage and cloud foundations.
-
-I see myself as a team player but also an independent problem solver who can  effectively collaborate with stakeholders and cross-functional team members. Outside of work, I enjoy outdoor activities and living life to the fullest.
+My formal education includes Software Engineering degrees from Western Governors University and UBC learned Java for web and mobile app development, with certifications in project/IT service manage and cloud foundations.
 
 * Portfolio site: https://yma-van2020.github.io/portfolio_site/  
 * LinkedIn: https://www.linkedin.com/in/katelynma

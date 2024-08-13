@@ -1,4 +1,6 @@
-With 3 years of experience as a full-stack web developer, I have designed and developed backend services and responsive UIs using PHP, PostgreSQL, React/TypeScript, and third-party APIs at Modo Carshare, while also managing a legacy codebase and ensuring PCI compliance. Previously, I worked on web and chatbot projects using Vue.js, React.js, Node.js, Python, and MongoDB, and am skilled in cloud computing, container solutions, and CI/CD pipelines.
+Software developer with 3 years of professional experience practicing in functional and object-oriented programming in languages. Quick to learn new skills and adapt to new syntaxes, while driven to tackle difficult problems.
+
+![Screenshot 2024-08-13 at 2 58 35 PM](https://github.com/user-attachments/assets/c9620ac2-9e45-450b-8c17-21965775c2da)
 
 * Portfolio site: https://yma-van2020.github.io/portfolio_site/  
 * LinkedIn: https://www.linkedin.com/in/katelynma

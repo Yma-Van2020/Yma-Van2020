@@ -2,3 +2,5 @@ Software developer with 3 years of professional experience practicing in functio
 
 * Portfolio site:[ https://yma-van2020.github.io/portfolio_site/ ](https://yma-van2020.github.io/portfolio_site/) 
 * LinkedIn: https://www.linkedin.com/in/katelynma
+
+![Uploading Screenshot 2024-09-11 at 9.14.54 AM.png…]()
